@@ -15,7 +15,7 @@ Rebite is a React Native mobile app prototype that demonstrates a sustainable fo
 - **Vendor Dashboards**: Separate interfaces for farmers and restaurants
 - **USSD Integration**: Low-fidelity interface for feature phone users
 
-## 🚀 Getting Started
+## 🚀 Get Started
 
 ### Prerequisites
 
